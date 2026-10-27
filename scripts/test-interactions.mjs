@@ -11,7 +11,7 @@ try {
     { name: 'desktop', viewport: { width: 1440, height: 900 } },
     { name: 'mobile', viewport: { width: 390, height: 844 } },
   ]) {
-    const page = await browser.newPage({ viewport: profile.viewport });
+    const page = await browser.newPage({ viewport: profile.viewport, reducedMotion: 'reduce' });
     const errors = [];
     const httpErrors = [];
     const mediaResponses = [];
