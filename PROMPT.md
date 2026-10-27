@@ -7,7 +7,7 @@ You are continuing an existing, authorized React + TypeScript project named **Se
 Use the first source available in this order:
 
 1. The source project or ZIP attached to this conversation/product.
-2. The tagged repository source: `https://github.com/hiiD4vd/promptedsite-template-03.git`, tag `template-v1.0.0`.
+2. The tagged repository source: `https://github.com/gilbertstevenson16-code/Seed-Lifecycle.git`, tag `template-v1.0.2`.
 3. The repository's `main` branch only when the tag is unavailable.
 
 After obtaining the source, read `AI_START_HERE.md`, `README.md`, and `docs/r2-assets.md` before changing anything. Existing source files are authoritative. Do not regenerate components, CSS, shaders, chapter data, or interactions from visual inference.
